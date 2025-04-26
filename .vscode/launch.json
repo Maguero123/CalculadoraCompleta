@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar Súper Calculadora GUI",
+            "request": "launch",
+            "mainClass": "com.mateo.calculadoracompleta.gui.MainGUI",
+            "vmArgs": "--module-path C:/Users/mateo/Downloads/openjfx-21.0.6_windows-x64_bin-sdk/javafx-sdk-21.0.6/lib --add-modules javafx.controls"
+        }
+    ]
+}
